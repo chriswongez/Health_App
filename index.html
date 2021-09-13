@@ -9,6 +9,30 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 
+<script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.0.2/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.0.2/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+        apiKey: "AIzaSyDkSskj4FrQEC0wpRCJC9iKbver16EAWqA",
+        authDomain: "ccproject-cc1c3.firebaseapp.com",
+        projectId: "ccproject-cc1c3",
+        storageBucket: "ccproject-cc1c3.appspot.com",
+        messagingSenderId: "932146998024",
+        appId: "1:932146998024:web:36e56fba9e74df6a2edabd",
+        measurementId: "G-3DGFDFS1WD"
+    };
+
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+</script>
+
 <body>
 
     <h1>Welcome to BMI calculator</h1>
