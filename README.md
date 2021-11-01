@@ -15,5 +15,6 @@
 <p align="left">
   <img src="logo.jpg">
 </p>
-                   
+
+## What is Health App?
 Health App is a BMI Calculator
