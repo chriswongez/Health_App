@@ -40,7 +40,9 @@ In this Show History tab, when users press on the button, they'll be directed to
 ## Contributing
 Contributions are what make our application such a wonderful environment to learn, become challenged, but also build. Every support anyone can offer is much welcome.
 1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes to the fork
+2. Create your feature Branch
+3. Commit your changes to the fork
 4. Push to the Branch
 5. Open a Pull Request
+
+## License
