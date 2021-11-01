@@ -4,7 +4,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">What is Health App?</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -17,4 +17,4 @@
 </p>
 
 ## What is Health App?
-Health App is a BMI Calculator
+Health App is a mobile application according to MIT App Inventor
