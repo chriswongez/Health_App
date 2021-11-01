@@ -5,6 +5,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#development-tool">Development Tool</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -17,4 +18,7 @@
 </p>
 
 ## What is Health App?
-<j>Health App is a Body Mass Index(BMI) mobile application according to MIT App Inventor which is to measure the person's weight and height. Also, it can record the BMI every time users calculate their latest BMI. The app can display the charts for the users to show the recorded BMI of users.</j>
+Health App is a Body Mass Index(BMI) mobile application according to MIT App Inventor which is to measure the person's weight and height. Also, it can record the BMI every time users calculate their latest BMI. The app can display the charts for the users to show the recorded BMI of users.
+
+##Development Tool
+<ul>This project is developed using </ul>
