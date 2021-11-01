@@ -13,7 +13,7 @@
 
 ## About The Project
 <div align="center">
-  <img src="logo.png" alt="logo" width="100" height="100">
+  <img src="logo.jpg" alt="logo" width="200" height="200">
 </div>
                    
 Health App is a BMI Calculator
