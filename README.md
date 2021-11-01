@@ -24,4 +24,4 @@ Health App is a combined Body Mass Index(BMI) calculator and Calories Burn Calcu
 This project is developed using [MIT App Inventor 2](http://ai2.appinventor.mit.edu/).
 
 ## Usage
-Through this Health App, users need to install an application named <b>MIT AI2 Companion</b> inside their mobile phone in order to connect with the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) from the browser.
+Through this Health App, users need to install an application named <b>MIT AI2 Companion</b> inside their mobile phone in order to connect with the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) from the browser. After connecting both of them, user will be directed to the Health App with 3 functions provided which are <b><i>BMI Calculator</i></b>, <b><i>Calorie Calculator</i></b>, and <b><i>Show History</i></b>.
