@@ -20,7 +20,7 @@
 ## What is Health App?
 Health App is a Body Mass Index(BMI) mobile application according to MIT App Inventor which is to measure the person's weight and height. Also, it can record the BMI every time users calculate their latest BMI. The app can display the charts for the users to show the recorded BMI of users.
 
-##Development Tool
-<ol>
+## Development Tool
+<ul>
   <li>This project is developed using </li>
-</ol>
+</ul>
