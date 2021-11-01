@@ -28,5 +28,5 @@ Through this Health App, users need to install an application named <b>MIT AI2 C
 
 <li><b>BMI Calculator</b></li>
 In this BMI Calculator function, users will need to key in their name, weight(in kg) and height(in cm) to calculate their BMI. After keying in 3 of the fields, users have to press "<i>Calculate!</i>" button in order to calculate the BMI result. The screen will show the result of BMI and whether the user is Underweight, Healthy(Normal), Overweight, or Obese. After getting the result, the screen will show user a function "<i>Save name and BMI to database</i>" button for users to save the calculated result into the database.
-<br />
+</br>
 <li><b>BMI Calculator</b></li>
