@@ -37,4 +37,4 @@ In this Calorie Calculator tab, users will need to key in their name, distance(i
 <li><b>Show History</b></li>
 In this Show History tab, when users press on the button, they'll be directed to the History Screen which allows users to view the BMI History, BMI Chart, Calorie History, Calorie Chart after they save their result into the database.
 
-##Contributing
+## Contributing
