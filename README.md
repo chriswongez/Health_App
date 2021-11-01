@@ -46,3 +46,4 @@ Contributions are what make our application such a wonderful environment to lear
 5. Open a Pull Request
 
 ## License
+Distributed under MIT License. See [LICENSE](https://github.com/chriswongez/Health_App/blob/main/LICENSE) for more information.
