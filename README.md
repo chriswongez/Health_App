@@ -6,6 +6,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#development-tool">Development Tool</a></li>
+    <li><a href="#API">APIs</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -22,6 +23,9 @@ Health App is a combined Body Mass Index(BMI) calculator and Calories Burn Calcu
 
 ## Development Tool
 This project is developed using [MIT App Inventor 2](http://ai2.appinventor.mit.edu/).
+
+## APIs
+
 
 ## Usage
 Through this Health App, users need to install an application named <b>MIT AI2 Companion</b> inside their mobile phone in order to connect with the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) from the browser. After connecting both of them, user will be directed to the Health App with 3 functions provided which are <b><i>BMI Calculator</i></b>, <b><i>Calorie Calculator</i></b>, and <b><i>Show History</i></b>.
