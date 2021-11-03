@@ -41,7 +41,7 @@ In this Show History tab, when users press on the button, they'll be directed to
 
 <br>
 <li><b>Version Control</b></li>
-In this project we keep improving our app, document version control is the process of tracking and managing different versions (or drafts) of a document so you know which is the current iteration of a file so for the first version: 
+In this project we keep improving our app, document version control is the process of tracking and managing different versions (or drafts) of a document so you know which is the current iteration of a file.We used the <b>Git for Desktop</b> to implement the version control on Github. There are a few version for our project: 
 
 <br> <b>MyMediCare V 0.1.0</b>
 <br> Release date : 01/10/2021
