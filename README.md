@@ -58,6 +58,15 @@ In this project we keep improving our app, document version control is the proce
 <br> Author : Chris Wong, Wooi Jin Yang, Wee Pei Xiang, Lim Zheng Wei
 <br> Improvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
 
+## Middlewares/APIs
+
+<li><b> HTTP </b></li>
+MyMediCare is use the HTTP GET request to send data and retrieve data.
+
+<li><b> Google Apps Scripts </b></li>
+We use the Google Apps Scripts to connect the spereadsheet service which is one of the service from Google Workspace Service. We do some coding to makes the HTTP Get request data appeend to the spreadsheet code and the Apps Script will deploy as the web app.After that, we place the web app's URL inside the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) and the Google Apps Script will handle the HTTP Get request with the doGet() function. 
+
+
 ## Contributing
 Contributions are what make our application such a wonderful environment to learn, become challenged, but also build. Every support anyone can offer is much welcome.
 1. Fork the Project
