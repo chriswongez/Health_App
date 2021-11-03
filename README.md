@@ -38,9 +38,31 @@ In this BMI Calculator tab, users will need to key in their name, weight(in kg) 
 In this Calorie Calculator tab, users will need to key in their name, distance(in km) based on their running distance, and weight(in kg) to calculate how much their calories have burned. After keying in 3 of the fields, users have to press "<i>Calculate</i>" button in order to calculate the Calorie Burn result. The screen will show the result of calories burn and whether they're Low calories burned, Normal calories burned, or High calories burned. After getting the result, the screen will show user a button "<i>Store Data</i>" for users to save the calculated result into the database.
 <br />
 <br />
+
 <li><b>Show History</b></li>
 In this Show History tab, when users press on the button, they'll be directed to the History Screen which allows users to view the <b>BMI History</b>, <b>BMI Chart</b>, <b>Calorie History</b>, or <b>Calorie Chart</b> after they save their result into the database.
+<br />
 
+<br>
+<li><b>Version Control</b></li>
+In this project we keep improving our app, document version control is the process of tracking and managing different versions (or drafts) of a document so you know which is the current iteration of a file so for the first version: 
+
+<br> <b>MyMediCare V 0.1.0</b>
+<br> Release date : 01/10/2021
+<br> Author : Wee Pei Xiang, Lim Zheng Wei & Yeap Kai Feng
+<br> Imporvement : Design for BMI interface
+
+<br> <b>MyMediCare V 0.2.0</b>
+<br> Release date : 25/10/2021
+<br> Author : Chris Wong & Wooi Jin Yang
+<br> Imporvement : Add BMI calculation function and add calories burned function.
+
+<br> <b>MyMediCare V 0.3.0</b>
+<br> Release date : 02/11/2021
+<br> Author : Chris Wong & Wooi Jin Yang
+<br> Imporvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
+
+<br />
 ## Contributing
 Contributions are what make our application such a wonderful environment to learn, become challenged, but also build. Every support anyone can offer is much welcome.
 1. Fork the Project
