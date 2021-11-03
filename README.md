@@ -6,7 +6,6 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#development-tool">Development Tool</a></li>
-    <li><a href="#APIs">APIs</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -23,9 +22,6 @@ Health App is a combined Body Mass Index(BMI) calculator and Calories Burn Calcu
 
 ## Development Tool
 This project is developed using [MIT App Inventor 2](http://ai2.appinventor.mit.edu/).
-
-## APIs
-
 
 ## Usage
 Through this Health App, users need to install an application named <b>MIT AI2 Companion</b> inside their mobile phone in order to connect with the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) from the browser. After connecting both of them, user will be directed to the Health App with 3 functions provided which are <b><i>BMI Calculator</i></b>, <b><i>Calorie Calculator</i></b>, and <b><i>Show History</i></b>.
@@ -50,17 +46,17 @@ In this project we keep improving our app, document version control is the proce
 <br> <b>MyMediCare V 0.1.0</b>
 <br> Release date : 01/10/2021
 <br> Author : Wee Pei Xiang, Lim Zheng Wei & Yeap Kai Feng
-<br> Imporvement : Design for BMI interface
+<br> Improvement : Design for BMI interface
 
 <br> <b>MyMediCare V 0.2.0</b>
 <br> Release date : 25/10/2021
 <br> Author : Chris Wong & Wooi Jin Yang, Yeap Kai Feng
-<br> Imporvement : Add BMI calculation function and add calories burned function.
+<br> Improvement : Add BMI calculation function and add calories burned function.
 
 <br> <b>MyMediCare V 0.3.0</b>
 <br> Release date : 02/11/2021
 <br> Author : Chris Wong, Wooi Jin Yang, Wee Pei Xiang, Lim Zheng Wei
-<br> Imporvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
+<br> Improvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
 
 ## Contributing
 Contributions are what make our application such a wonderful environment to learn, become challenged, but also build. Every support anyone can offer is much welcome.
