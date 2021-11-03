@@ -62,7 +62,6 @@ In this project we keep improving our app, document version control is the proce
 <br> Author : Chris Wong, Wooi Jin Yang, Wee Pei Xiang, Lim Zheng Wei
 <br> Imporvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
 
-<br />
 ## Contributing
 Contributions are what make our application such a wonderful environment to learn, become challenged, but also build. Every support anyone can offer is much welcome.
 1. Fork the Project
