@@ -14,7 +14,7 @@
 
 ## About The Project
 <p align="left">
-  <img src="images/logo.jpg">
+  <img src="logo.jpg">
 </p>
 
 ## What is Health App?
