@@ -54,4 +54,18 @@
 
 ## Show History
 9. To view back the data stored history, from the main page of MyMediCare app, press on "<b>Show History</b>" and user will move into the History page.
+<p align="center">
 <img src="/images/historypage.jpg" height="500" />
+</p>
+
+10. Click on <b><i>Show BMI History</i></b> to show the previously saved BMI result. Click on <b><i>Show BMI Chart</i></b>
+<table align="center">
+  <tr>
+    <td><b>Show BMI History</b></td>
+    <td><b>Show BMI Chart</b></td>
+  </tr>
+  <tr>
+   <td><p align="center"><img src="/images/bmihistory.jpg" height="500" /></p></td>
+   <td><p align="center"><img src="/images/bmichart.jpg" height="500"/></p></td>
+  </tr>
+</table>
