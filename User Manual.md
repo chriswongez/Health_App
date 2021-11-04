@@ -26,14 +26,17 @@
   </tr>
 </table>
 
-7. Another way to user the app is download the apk file form our github link. Click the yellow circle release tag and it will show “MyMediCare V1.0.0” and click to download the lates the version.
+7. Another way to user the app is download the apk file form our github link https://github.com/chriswongez/MyMediCare. Click the yellow circle release tag and it will show “MyMediCare V1.0.0” and click to download the lates the version.
 <p align="center"><img src="/images/Slide1.JPG" height="500" /></p>
 
 8. Here to download the lates version u can see the Assets tag there have an apk file link to download the app.
 <p align="center"><img src="/images/Slide2.JPG" height="500" /></p>
 
+9. After the installation it will show MyMediCare application on your mobile phone and click it to run the health app.
+<p align="center"><img src="/images/Screenshot_20211105_002232.jpg" height="500" /></p>
+
 ## Use of BMI Calculator
-7. In the BMI Calculator, insert your name, weight(in kg) and height(in cm) to calculate your BMI. After calculate it, the result will show and users can save the data in the database by pressing on the "Save name and BMI to database" button and will show a pop-up message "<b>Data saved to database successfully!</b>".
+10. In the BMI Calculator, insert your name, weight(in kg) and height(in cm) to calculate your BMI. After calculate it, the result will show and users can save the data in the database by pressing on the "Save name and BMI to database" button and will show a pop-up message "<b>Data saved to database successfully!</b>".
 <table align="center">
   <tr>
     <td><p align="center"><b>Calculate BMI and shown result</b></p></td>
@@ -46,7 +49,7 @@
 </table>
 
 ## Use of Calorie Calculator
-8. For Calorie Calculator, insert your name, your running distance(in km) and weight(in kg) to calculate your calories burned. After calculate it, the result will show and users can save the data in the database by pressing on the "Store Data" button and will show a pop-up message "<b>Data saved to database successfully!</b>".
+11. For Calorie Calculator, insert your name, your running distance(in km) and weight(in kg) to calculate your calories burned. After calculate it, the result will show and users can save the data in the database by pressing on the "Store Data" button and will show a pop-up message "<b>Data saved to database successfully!</b>".
 <table align="center">
   <tr>
     <td><b>Calculate Calorie Burned and shown result</b></td>
@@ -59,11 +62,11 @@
 </table>
 
 ## Use of Show History
-9. To view back the data stored history, from the main page of MyMediCare app, press on "<b>Show History</b>" and user will move into the History page.
+12. To view back the data stored history, from the main page of MyMediCare app, press on "<b>Show History</b>" and user will move into the History page.
 <p align="center">
 <img src="/images/historypage.jpg" height="500" />
 </p>
-10. Click on <b><i>Show BMI History</i></b> to show the previously saved BMI result. Click on <b><i>Show BMI Chart</i></b> to show the chart of the BMI result with probabilities of data saved users.
+13. Click on <b><i>Show BMI History</i></b> to show the previously saved BMI result. Click on <b><i>Show BMI Chart</i></b> to show the chart of the BMI result with probabilities of data saved users.
 <table align="center">
   <tr>
     <td><b>Show BMI History</b></td>
@@ -74,7 +77,7 @@
    <td><p align="center"><img src="/images/bmichart.jpg" height="500"/></p></td>
   </tr>
 </table>
-11. Click on <b><i>Show Calorie History</i></b> to show the previously saved Calorie Burned result. Click on <b><i>Show Calorie Chart</i></b> to show the chart of the Calorie Burned result with probabilities of data saved users.
+14. Click on <b><i>Show Calorie History</i></b> to show the previously saved Calorie Burned result. Click on <b><i>Show Calorie Chart</i></b> to show the chart of the Calorie Burned result with probabilities of data saved users.
 <table align="center">
   <tr>
     <td><b>Show Calorie History</b></td>
