@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><img src="/images/mit2.png" height="500" /></td>
-    <td><img src="/images/mainpage.jpg" height="500"/></td>
+    <td><img align="center" src="/images/mainpage.jpg" height="500"/></td>
   </tr>
 </table>
 
