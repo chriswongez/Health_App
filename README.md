@@ -32,7 +32,7 @@ In this BMI Calculator tab, users will need to key in their name, weight(in kg) 
 <br />
 <br />
 <li><b>Calorie Calculator</b></li>
-In this Calorie Calculator tab, users will need to key in their name, distance(in km) based on their running distance, and weight(in kg) to calculate how much their calories have burned. After keying in 3 of the fields, users have to press "<i>Calculate</i>" button in order to calculate the Calorie Burn result. The screen will show the result of calories burn and whether they're Low calories burned, Normal calories burned, or High calories burned. After getting the result, the screen will show user a button "<i>Store Data</i>" for users to save the calculated result into the database.
+In this Calorie Calculator tab, users will need to key in their name, distance(in km) based on their running distance, and weight(in kg) to calculate how much their calories have burned. After keying in 3 of the fields, users have to press "<i>Calculate</i>" button in order to calculate the Calorie Burn result. The screen will show the result of calories burn and whether they're Low calories burned, Normal calories burned, or High calories burned. After getting the result, the screen will show user a button "<i>Store Data</i>" for users to save the calculated result into the database [MIT App Inventor 2](http://ai2.appinventor.mit.edu/).
 <br />
 <br />
 
