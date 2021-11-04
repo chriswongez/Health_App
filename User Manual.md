@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-## BMI Calculator
+## Use of BMI Calculator
 7. In the BMI Calculator, insert your name, weight(in kg) and height(in cm) to calculate your BMI. After calculate it, the result will show and users can save the data in the database by pressing on the "Save name and BMI to database" button and will show a pop-up message "<b>Data saved to database successfully!</b>".
 <table align="center">
   <tr>
@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-## Calorie Calculator
+## Use of Calorie Calculator
 8. For Calorie Calculator, insert your name, your running distance(in km) and weight(in kg) to calculate your calories burned. After calculate it, the result will show and users can save the data in the database by pressing on the "Store Data" button and will show a pop-up message "<b>Data saved to database successfully!</b>".
 <table align="center">
   <tr>
@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-## Show History
+## Use of Show History
 9. To view back the data stored history, from the main page of MyMediCare app, press on "<b>Show History</b>" and user will move into the History page.
 <p align="center">
 <img src="/images/historypage.jpg" height="500" />
