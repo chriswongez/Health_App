@@ -63,6 +63,7 @@ In this project we keep improving our app, document version control is the proce
 <li><b> HTTP </b></li>
 MyMediCare uses the HTTP GET request to send data and retrieve data.
 <br />
+<br />
 <li><b> Google Apps Scripts </b></li>
 We use the Google Apps Scripts to connect the spereadsheet service which is one of the service from Google Workspace Service. We do some coding to makes the HTTP Get request data appeend to the spreadsheet code and the Apps Script will deploy as the web app. After that, we place the web app's URL inside the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) and the Google Apps Script will handle the HTTP Get request with the doGet() function. 
 
