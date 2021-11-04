@@ -20,7 +20,9 @@
   </tr>
   <tr>
     <td><img src="/images/mit2.png" height="500" /></td>
+    <p align="center">
     <td><img src="/images/mainpage.jpg" height="500"/></td>
+    </p>
   </tr>
 </table>
 
