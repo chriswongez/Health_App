@@ -2,7 +2,7 @@
 ## Installation & Connection
 1. In mobile phone, go to <b>Play Store</b> and search for "<i><b>MIT AI2 Companion</b></i>", and download the application.
 
-<img src="/images/mit1.jpg" height="500" margin-left="100px"/>
+<img src="/images/mit1.jpg" height="500" margin-left="1000"/>
 2. Search <b>MIT App Inventor</b> http://ai2.appinventor.mit.edu/ in the web browser with the given URL.
 
 <img src="/images/mit3.png" width="900" />
