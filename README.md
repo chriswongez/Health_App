@@ -60,7 +60,8 @@ In this project we keep improving our app, document version control is the proce
 <br> Improvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
 
 ## Middlewares/APIs
--<b>HTTP</b>
+a) <b>HTTP</b>
+
 MyMediCare uses the HTTP GET request to send data and retrieve data.
 <br />
 <br />
