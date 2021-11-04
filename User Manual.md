@@ -57,8 +57,7 @@
 <p align="center">
 <img src="/images/historypage.jpg" height="500" />
 </p>
-
-10. Click on <b><i>Show BMI History</i></b> to show the previously saved BMI result. Click on <b><i>Show BMI Chart</i></b>
+10. Click on <b><i>Show BMI History</i></b> to show the previously saved BMI result. Click on <b><i>Show BMI Chart</i></b> to show the chart of the BMI result with probabilities of data saved users.
 <table align="center">
   <tr>
     <td><b>Show BMI History</b></td>
@@ -67,5 +66,16 @@
   <tr>
    <td><p align="center"><img src="/images/bmihistory.jpg" height="500" /></p></td>
    <td><p align="center"><img src="/images/bmichart.jpg" height="500"/></p></td>
+  </tr>
+</table>
+11. Click on <b><i>Show Calorie History</i></b> to show the previously saved Calorie Burned result. Click on <b><i>Show Calorie Chart</i></b> to show the chart of the Calorie Burned result with probabilities of data saved users.
+<table align="center">
+  <tr>
+    <td><b>Show Calorie History</b></td>
+    <td><b>Show Calorie Chart</b></td>
+  </tr>
+  <tr>
+   <td><p align="center"><img src="/images/caloriehistory.jpg" height="500" /></p></td>
+   <td><p align="center"><img src="/images/caloriechart.jpg" height="500"/></p></td>
   </tr>
 </table>
