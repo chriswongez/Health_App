@@ -15,8 +15,8 @@
 </details>
 
 ## About The Project
-<p align="left">
-  <img src="images/logo.jpg">
+<p align="center">
+  <img src="images/logo.jpg" width="500px" height="500px">
 </p>
 
 ## What is MyMediCare?
