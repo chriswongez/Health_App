@@ -1,4 +1,5 @@
 # MyMediCare
+
 ## TCC 3141 - Cloud Computing Project (made by Proton miao miao)
 
 <details>
@@ -15,17 +16,21 @@
 </details>
 
 ## About The Project
+
 <p align="center">
   <img src="images/logo.jpg" width="300px" height="300px">
 </p>
 
 ## What is MyMediCare?
+
 MyMediCare is a combined Body Mass Index(BMI) calculator and Calories Burn Calculator mobile application according to MIT App Inventor which is to measure the person's weight and height, and measure the calories burned by the user. Also, it can record the BMI or calories burn every time users calculate their latest BMI and calories burn. The app can display the charts for the users to show the recorded BMI or calories burn.
 
 ## Development Tool
+
 This project is developed using [MIT App Inventor 2](http://ai2.appinventor.mit.edu/).
 
 ## Usage
+
 Through this MyMediCare, users need to install an application named <b>MIT AI2 Companion</b> inside their mobile phone in order to connect with the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) from the browser. After connecting both of them, user will be directed to the MyMediCare with 3 functions provided which are <b><i>BMI Calculator</i></b>, <b><i>Calorie Calculator</i></b>, and <b><i>Show History</i></b>.
 
 <li><b>BMI Calculator</b></li>
@@ -43,6 +48,7 @@ In this Show History tab, when users press on the button, they'll be directed to
 <br />
 
 ## Middlewares or APIs
+
 a) <b>HTTP</b>
 MyMediCare uses the HTTP GET request to send data and retrieve data.
 <br />
@@ -51,12 +57,13 @@ b) <b>Google Apps Scripts</b>
 
 We use the Google Apps Scripts to connect the spereadsheet service which is one of the service from Google Workspace Service. We do some coding to makes the HTTP Get request data appeend to the spreadsheet code and the Apps Script will deploy as the web app. After that, we place the web app's URL inside the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) and the Google Apps Script will handle the HTTP Get request with the doGet() function.
 
-
 C) <b>Google Sheets</b>
 
 We use Google Sheets as our database. All the calculated record and result will store in our spreedsheet.
+
 ## Version Control
-In this project we keep improving our app, document version control is the process of tracking and managing different versions (or drafts) of a document so you know which is the current iteration of a file.We used the <b>Git for Desktop</b> to implement the version control on Github. There are a few version for our project: 
+
+In this project we keep improving our app, document version control is the process of tracking and managing different versions (or drafts) of a document so you know which is the current iteration of a file.We used the <b>Git for Desktop</b> to implement the version control on Github. There are a few version for our project:
 
 <br> <b>MyMediCare V 0.1.0 (Pre-release) </b>
 <br> Release date : 01/10/2021
@@ -74,7 +81,9 @@ In this project we keep improving our app, document version control is the proce
 <br> Improvement : Create an unique icon for the app and bug fix and improve quality of function and user interface.
 
 ## Contributing
+
 Contributions are what make our application such a wonderful environment to learn, become challenged, but also build. Every support anyone can offer is much welcome.
+
 1. Fork the Project
 2. Create your feature Branch
 3. Commit your changes to the fork
@@ -82,4 +91,5 @@ Contributions are what make our application such a wonderful environment to lear
 5. Open a Pull Request
 
 ## License
+
 Distributed under MIT License. See [LICENSE](https://github.com/chriswongez/MyMediCare/blob/main/LICENSE) for more information.
