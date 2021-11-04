@@ -17,12 +17,12 @@
 6. After getting the 6-digits code and QR code, open the downloaded <i><b>MIT AI2 Companion</b></i> in the mobile phone and connect with the MIT App Inventor either connect with 6-digits code or QR code.
 <table align="center">
   <tr>
-    <td><b>Connect with 6-digit or QR code</b></td>
-    <td><b>Main Page of MyMediCare</b></td>
+   <td><p align="center"><b>Connect with 6-digit or QR code</b></p></td>
+   <td><p align="center"><b>Main Page of MyMediCare</b></p></td>
   </tr>
   <tr>
-    <td><img src="/images/mit2.png" height="500" /></td>
-    <td><img src="/images/mainpage.jpg" height="500"/></td>
+   <td><p align="center"><img src="/images/mit2.png" height="500" /></p></td>
+   <td><p align="center"><img src="/images/mainpage.jpg" height="500"/></p></td>
   </tr>
 </table>
 
@@ -30,8 +30,8 @@
 7. In the BMI Calculator, insert your name, weight(in kg) and height(in cm) to calculate your BMI. After calculate it, the result will show and users can save the data in the database by pressing on the "Save name and BMI to database" button and will show a pop-up message "<b>Data saved to database successfully!</b>".
 <table align="center">
   <tr>
-    <td><b>Calculate BMI and shown result</b></td>
-    <td><b>Save data into database</b></td>
+    <td><p align="center"><b>Calculate BMI and shown result</b></p></td>
+    <td><p align="center"><b>Save data into database</b></p></td>
   </tr>
   <tr>
     <td><img src="/images/bmicalculate.jpg" height="500" /></td>
