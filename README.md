@@ -7,6 +7,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#development-tool">Development Tool</a></li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#version-control">Version Control</a></li>
     <li><a href="#middleware/apis">Middleware/APIs</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
