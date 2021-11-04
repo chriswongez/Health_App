@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
     <td><b>Connect with 6-digit or QR code</b></td>
-    <td><b>Main Page of MyMediCare in MIT AI2 Companion</b></td>
+    <td><b>Main Page of MyMediCare</b></td>
   </tr>
   <tr>
     <td><img src="/images/mit2.png" height="500" /></td>
