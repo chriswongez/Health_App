@@ -40,8 +40,8 @@ In this Calorie Calculator tab, users will need to key in their name, distance(i
 In this Show History tab, when users press on the button, they'll be directed to the History Screen which allows users to view the <b>BMI History</b>, <b>BMI Chart</b>, <b>Calorie History</b>, or <b>Calorie Chart</b> after they save their result into the database.
 <br />
 
-<br>
-<li><b>Version Control</b></li>
+## Version Control
+<b>Version Control</b>
 In this project we keep improving our app, document version control is the process of tracking and managing different versions (or drafts) of a document so you know which is the current iteration of a file.We used the <b>Git for Desktop</b> to implement the version control on Github. There are a few version for our project: 
 
 <br> <b>MyMediCare V 0.1.0</b>
