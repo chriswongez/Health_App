@@ -20,10 +20,19 @@
   </tr>
   <tr>
     <td><img src="/images/mit2.png" height="500" /></td>
-    <p align="center">
     <td><img src="/images/mainpage.jpg" height="500"/></td>
-    </p>
   </tr>
 </table>
 
 ## BMI Calculator
+7. In the BMI Calculator, insert your name, weight(in kg) and height(in cm) to calculate your BMI. After calculate it, the result will show and users can save the data in the database by pressing on the "Save name and BMI to database" button and will show a pop-up message "<b>Data saved to database successfully!</b>".
+<table align="center">
+  <tr>
+    <td><b>Calculate BMI and shown result</b></td>
+    <td><b>Save data into database</b></td>
+  </tr>
+  <tr>
+    <td><img src="/images/bmicalculate.jpg" height="500" /></td>
+    <td><img src="/images/bmisavedata.jpg" height="500"/></td>
+  </tr>
+</table>
