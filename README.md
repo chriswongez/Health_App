@@ -32,7 +32,7 @@ In this BMI Calculator tab, users will need to key in their name, weight(in kg) 
 <br />
 <br />
 <li><b>Calorie Calculator</b></li>
-In this Calorie Calculator tab, users will need to key in their name, distance(in km) based on their running distance, and weight(in kg) to calculate how much their calories have burned. After keying in 3 of the fields, users have to press "<i>Calculate</i>" button in order to calculate the Calorie Burn result. The screen will show the result of calories burn and whether they're Low calories burned, Normal calories burned, or High calories burned. After getting the result, the screen will show user a button "<i>Store Data</i>" for users to save the calculated result into the database [MIT App Inventor 2](http://ai2.appinventor.mit.edu/).
+In this Calorie Calculator tab, users will need to key in their name, distance(in km) based on their running distance, and weight(in kg) to calculate how much their calories have burned. After keying in 3 of the fields, users have to press "<i>Calculate</i>" button in order to calculate the Calorie Burn result. The screen will show the result of calories burn and whether they're Low calories burned, Normal calories burned, or High calories burned. After getting the result, the screen will show user a button "<i>Store Data</i>" for users to save the calculated result into the database.
 <br />
 <br />
 
@@ -60,11 +60,11 @@ In this project we keep improving our app, document version control is the proce
 <br> Improvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
 
 ## Middlewares/APIs
-<li><b>HTTP</b></li>
+a) <b>HTTP</b>
 MyMediCare uses the HTTP GET request to send data and retrieve data.
 <br />
 <br />
-<li><b>Google Apps Scripts</b></li>
+b) <b>Google Apps Scripts</b>
 We use the Google Apps Scripts to connect the spereadsheet service which is one of the service from Google Workspace Service. We do some coding to makes the HTTP Get request data appeend to the spreadsheet code and the Apps Script will deploy as the web app. After that, we place the web app's URL inside the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) and the Google Apps Script will handle the HTTP Get request with the doGet() function. 
 
 ## Contributing
