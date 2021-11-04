@@ -61,21 +61,16 @@ In this project we keep improving our app, document version control is the proce
 <br> <b>MyMediCare V 0.1.0 (Pre-release) </b>
 <br> Release date : 01/10/2021
 <br> Author : Wee Pei Xiang, Lim Zheng Wei & Yeap Kai Feng
-<br> Improvement : Design for BMI interface
+<br> Improvement : Design for BMI interface and add BMI calculation function and add calories burned function.
 
 <br> <b>MyMediCare V 0.2.0 (Pre-release) </b>
 <br> Release date : 25/10/2021
 <br> Author : Chris Wong & Wooi Jin Yang, Yeap Kai Feng
-<br> Improvement : Add BMI calculation function and add calories burned function.
-
-<br> <b>MyMediCare V 0.3.0 (Pre-release) </b>
-<br> Release date : 02/11/2021
-<br> Author : Chris Wong, Wooi Jin Yang, Wee Pei Xiang, Lim Zheng Wei
 <br> Improvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
 
 <br> <b>MyMediCare V 1.0.0 (Formal Edition) </b>
 <br> Release date : 04/11/2021
-<br> Author : Chris Wong, Wooi Jin Yang
+<br> Author : Chris Wong, Wooi Jin Yang, Wee Pei Xiang, Lim Zheng Wei
 <br> Improvement : Create an unique icon for the app and bug fix and improve quality of function and user interface.
 
 ## Contributing
