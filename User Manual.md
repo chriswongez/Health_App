@@ -26,6 +26,12 @@
   </tr>
 </table>
 
+7. Another way to user the app is download the apk file form our github link. Click the yellow circle release tag and it will show “MyMediCare V1.0.0” and click to download the lates the version.
+<p align="center"><img src="/images/Slide1.JPG" height="500" /></p>
+
+8. Here to download the lates version u can see the Assets tag there have an apk file link to download the app.
+<p align="center"><img src="/images/Slide2.JPG" height="500" /></p>
+
 ## Use of BMI Calculator
 7. In the BMI Calculator, insert your name, weight(in kg) and height(in cm) to calculate your BMI. After calculate it, the result will show and users can save the data in the database by pressing on the "Save name and BMI to database" button and will show a pop-up message "<b>Data saved to database successfully!</b>".
 <table align="center">
