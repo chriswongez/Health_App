@@ -8,7 +8,7 @@
     <li><a href="#development-tool">Development Tool</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#version-control">Version Control</a></li>
-    <li><a href="#middlewares-apis">Middlewares/APIs</a></li>
+    <li><a href="#middlewares/apis">Middlewares/APIs</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ol>
