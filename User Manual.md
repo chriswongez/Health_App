@@ -6,7 +6,7 @@
 <img src="/images/mit3.png" width="900" />
 3. In web browser, search https://github.com/chriswongez/MyMediCare to download an <b>.aia</b> file.
 <img src="/images/mit4.png" width="900"/>
-4. Then, in the web browser of MIT App Inventor, import the .aia file from Window Downloads directory. After importing the file, the page will show the screen of MyMediCare app provided with 3 functions. (BMI Calculator, Calorie Calculator, Show History)
+4. Then, in the web browser of MIT App Inventor, import the .aia file from Window Downloads directory. After importing the file, the page will show the screen of MyMediCare app provided with 3 functions (<b>BMI Calculator, Calorie Calculator, Show History</b>).
 <img src="/images/mitconnect.png" width="800" />
 <img src="/images/screen1.png" width="800" />
 5. Next, click on "Connect" and click "AI Companion", it'll show a 6-digit codes and a QR code which ables user to connect the app with the MIT AI2 Companion in the mobile phone to fully access MyMediCare application.
