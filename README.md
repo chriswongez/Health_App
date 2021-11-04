@@ -59,7 +59,7 @@ In this project we keep improving our app, document version control is the proce
 <br> Author : Chris Wong, Wooi Jin Yang, Wee Pei Xiang, Lim Zheng Wei
 <br> Improvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
 
-## Middlewares/APIs
+## Middlewares or APIs
 a) <b>HTTP</b>
 
 MyMediCare uses the HTTP GET request to send data and retrieve data.
