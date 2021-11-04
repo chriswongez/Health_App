@@ -5,7 +5,7 @@
 <img src="/images/mit1.jpg" height="500" />
 </p>
 2. Search <b>MIT App Inventor</b> http://ai2.appinventor.mit.edu/ in the web browser with the given URL.
-<img src="/images/mit3.png" width="900" />
+<p align="center"><img src="/images/mit3.png" width="900" /></p>
 3. In web browser, search https://github.com/chriswongez/MyMediCare to download an <b>.aia</b> file.
 <p align="center"><img src="/images/mit4.png" width="900"/></p>
 4. Then, in the web browser of MIT App Inventor, import the .aia file from Window Downloads directory. After importing the file, the page will show the screen of MyMediCare app provided with 3 functions (<b>BMI Calculator, Calorie Calculator, Show History</b>).
