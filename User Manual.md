@@ -19,10 +19,5 @@
     <td><img src="/images/mainpage.jpg" height="500"/></td>
   </tr>
 </table>
-  
-  
-
-
-
 
 ## BMI Calculator
