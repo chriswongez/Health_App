@@ -13,7 +13,7 @@
 <img src="/images/aicompanion.png" width="900" />
 <img src="/images/code.PNG" width="900" />
 6. After getting the 6-digits code and QR code, open the downloaded <i><b>MIT AI2 Companion</b></i> in the mobile phone and connect with the MIT App Inventor either connect with 6-digits code or QR code.
-<table>
+<table align="center">
   <tr>
     <td><img src="/images/mit2.png" height="500" /></td>
     <td><img src="/images/mainpage.jpg" height="500"/></td>
