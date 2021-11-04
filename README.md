@@ -40,28 +40,10 @@ In this Calorie Calculator tab, users will need to key in their name, distance(i
 <li><b>Show History</b></li>
 In this Show History tab, when users press on the button, they'll be directed to the History Screen which allows users to view the <b>BMI History</b>, <b>BMI Chart</b>, <b>Calorie History</b>, or <b>Calorie Chart</b> after they save their result into the database.
 <br />
-
-## Version Control
-In this project we keep improving our app, document version control is the process of tracking and managing different versions (or drafts) of a document so you know which is the current iteration of a file.We used the <b>Git for Desktop</b> to implement the version control on Github. There are a few version for our project: 
-
-<br> <b>MyMediCare V 0.1.0</b>
-<br> Release date : 01/10/2021
-<br> Author : Wee Pei Xiang, Lim Zheng Wei & Yeap Kai Feng
-<br> Improvement : Design for BMI interface
-
-<br> <b>MyMediCare V 0.2.0</b>
-<br> Release date : 25/10/2021
-<br> Author : Chris Wong & Wooi Jin Yang, Yeap Kai Feng
-<br> Improvement : Add BMI calculation function and add calories burned function.
-
-<br> <b>MyMediCare V 0.3.0</b>
-<br> Release date : 02/11/2021
-<br> Author : Chris Wong, Wooi Jin Yang, Wee Pei Xiang, Lim Zheng Wei
-<br> Improvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
+<br />
 
 ## Middlewares or APIs
 a) <b>HTTP</b>
-
 MyMediCare uses the HTTP GET request to send data and retrieve data.
 <br />
 <br />
@@ -73,6 +55,28 @@ We use the Google Apps Scripts to connect the spereadsheet service which is one 
 C) <b>Google Sheets</b>
 
 We use Google Sheets as our database. All the calculated record and result will store in our spreedsheet.
+## Version Control
+In this project we keep improving our app, document version control is the process of tracking and managing different versions (or drafts) of a document so you know which is the current iteration of a file.We used the <b>Git for Desktop</b> to implement the version control on Github. There are a few version for our project: 
+
+<br> <b>MyMediCare V 0.1.0 (Pre-release) </b>
+<br> Release date : 01/10/2021
+<br> Author : Wee Pei Xiang, Lim Zheng Wei & Yeap Kai Feng
+<br> Improvement : Design for BMI interface
+
+<br> <b>MyMediCare V 0.2.0 (Pre-release) </b>
+<br> Release date : 25/10/2021
+<br> Author : Chris Wong & Wooi Jin Yang, Yeap Kai Feng
+<br> Improvement : Add BMI calculation function and add calories burned function.
+
+<br> <b>MyMediCare V 0.3.0 (Pre-release) </b>
+<br> Release date : 02/11/2021
+<br> Author : Chris Wong, Wooi Jin Yang, Wee Pei Xiang, Lim Zheng Wei
+<br> Improvement : Add store data history to database, improve friendly user interface and bug fix for calculation.
+
+<br> <b>MyMediCare V 1.0.0 (Formal Edition) </b>
+<br> Release date : 04/11/2021
+<br> Author : Chris Wong, Wooi Jin Yang
+<br> Improvement : Create an unique icon for the app and bug fix and improve quality of function and user interface.
 
 ## Contributing
 Contributions are what make our application such a wonderful environment to learn, become challenged, but also build. Every support anyone can offer is much welcome.
