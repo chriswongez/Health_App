@@ -56,10 +56,12 @@ MyMediCare uses the HTTP GET request to send data and retrieve data.
 b) <b>Google Apps Scripts</b>
 
 We use the Google Apps Scripts to connect the spereadsheet service which is one of the service from Google Workspace Service. We do some coding to makes the HTTP Get request data appeend to the spreadsheet code and the Apps Script will deploy as the web app. After that, we place the web app's URL inside the [MIT App Inventor 2](http://ai2.appinventor.mit.edu/) and the Google Apps Script will handle the HTTP Get request with the doGet() function.
+[Click me to the Google Apps Script](https://docs.google.com/spreadsheets/d/1og_lD7-E5EnXVghbr1SuS-pMBfp9YDtwlT_2rUbfyrA/edit?usp=sharing)
 
 C) <b>Google Sheets</b>
 
 We use Google Sheets as our database. All the calculated record and result will store in our spreedsheet.
+[Click Me to the Spreadsheet](https://docs.google.com/spreadsheets/d/1og_lD7-E5EnXVghbr1SuS-pMBfp9YDtwlT_2rUbfyrA/edit?usp=sharing)
 
 ## Version Control
 
