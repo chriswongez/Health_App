@@ -36,3 +36,16 @@
     <td><img src="/images/bmisavedata.jpg" height="500"/></td>
   </tr>
 </table>
+
+## Calorie Calculator
+8. For Calorie Calculator, insert your name, your running distance(in km) and weight(in kg) to calculate your calories burned. After calculate it, the result will show and users can save the data in the database by pressing on the "Store Data" button and will show a pop-up message "<b>Data saved to database successfully!</b>".
+<table align="center">
+  <tr>
+    <td><b>Calculate Calorie Burned and shown result</b></td>
+    <td><b>Store data into database</b></td>
+  </tr>
+  <tr>
+    <td><img src="/images/caloriecalculate.jpg" height="500" /></td>
+    <td><img src="/images/caloriesavedata.jpg" height="500"/></td>
+  </tr>
+</table>
